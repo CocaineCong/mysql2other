@@ -1,1 +1,5 @@
 bin
+.idea
+log
+.log
+.DS_Store
